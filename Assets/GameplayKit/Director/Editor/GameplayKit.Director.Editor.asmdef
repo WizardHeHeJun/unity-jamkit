@@ -1,0 +1,22 @@
+{
+    "name": "GameplayKit.Director.Editor",
+    "rootNamespace": "GameplayKit.Director.Editor",
+    "references": [
+        "GameplayKit.Core.Runtime",
+        "GameplayKit.Core.Editor",
+        "GameplayKit.Quest.Runtime",
+        "GameplayKit.Director.Runtime",
+        "DialogueGraph.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

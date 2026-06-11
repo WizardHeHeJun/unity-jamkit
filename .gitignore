@@ -1,0 +1,37 @@
+# Unity 标准忽略（本仓库只入库 Assets 下的工具源码与文档）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity 自动生成
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+sysinfo.txt
+crashlytics-build.properties
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 各模块一键示例生成的演示资产（按需自行入库）
+/[Aa]ssets/DialogueGraphDemo*/
+/[Aa]ssets/GameplayKitDemo*/
+/[Aa]ssets/PlatformerKitDemo*/

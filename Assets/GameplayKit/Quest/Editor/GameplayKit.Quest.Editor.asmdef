@@ -1,0 +1,20 @@
+{
+    "name": "GameplayKit.Quest.Editor",
+    "rootNamespace": "GameplayKit.Quest.Editor",
+    "references": [
+        "GameplayKit.Core.Runtime",
+        "GameplayKit.Core.Editor",
+        "GameplayKit.Quest.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
